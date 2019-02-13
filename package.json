@@ -56,6 +56,6 @@
     "test-listen": "1.1.0"
   },
   "dependencies": {
-    "fint-get-token": "1.0.4"
+    "fint-get-token": "1.0.5"
   }
 }
